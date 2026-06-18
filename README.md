@@ -1,8 +1,7 @@
 # XenonHTTPnoS
-
 A Dashlaunch plugin to redirect and downgrade HTTP(S) requests on the Xbox 360. It hooks the `NetDll_XHttpConnect` function in `xam.xex`.
 
-Used for [Arkham: Revived (Batman: Arkham Origins online)](https://github.com/KiwifruitDev/ArkhamRevivedWorker).
+Used for [Arkham: Revived (Batman: Arkham Origins online)](https://kiwifruitdev.com/arkhamrevived/).
 
 ## Usage
 
